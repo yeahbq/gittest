@@ -12,3 +12,8 @@ cd = current dir
 -git push origin master
 -git log = Past commits
 git status - tells changes to be committed
+git reset = remove last committed file
+git clone <html> - clones git from url
+git diff = things you've committed
+git diff --cache - already staged but not committed
+git remote -v - tells user if repos are linked'
